@@ -11,3 +11,7 @@ ul.main-menu li {
     display: inline;
 }
 
+p {
+ padding-top: 10px;
+ padding-bottom: 10px;
+}
