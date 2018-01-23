@@ -9,14 +9,14 @@ ul.main-menu li {
 
 p {
  font-style: normal;
- font-family: monospace;
+ font-family: sans-serif;
  font-size: 15px;
  padding-top: 10px;
  padding-bottom: 10px;
 }
 
 .h1 {
- font-family: monospace; 
+ font-family: sans-serif;  
  
     
 }
