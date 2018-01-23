@@ -8,6 +8,9 @@ ul.main-menu li {
 }
 
 p {
+ font-style: normal;
+ font-family: monospace;
+ font-size: 15px;
  padding-top: 10px;
  padding-bottom: 10px;
  margin-right: 100px;
