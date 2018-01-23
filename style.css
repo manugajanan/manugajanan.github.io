@@ -1,5 +1,5 @@
 h1.h1 {
-  color: lightgray;
+  /* color: lightgray; */
  }
 
 ul.main-menu {
@@ -10,5 +10,4 @@ ul.main-menu {
 }
 ul.main-menu li {
     display: inline;
-  background-color: lightgray;
 }
