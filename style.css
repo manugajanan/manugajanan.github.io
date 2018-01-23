@@ -1,9 +1,8 @@
-
 ul.main-menu {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    
+    background-color: lightgray;
 }
 ul.main-menu li {
     display: inline;
