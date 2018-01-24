@@ -26,7 +26,7 @@ p {
 .h2 {
  font-family: sans-serif, verdana;
  letter-spacing: 2px;   
- text-align: center;
+ text-align: left;
 }
 
 footer {
@@ -63,3 +63,5 @@ body {
     margin-top: 50px;
     background-color: maroon; 
 }
+
+    
