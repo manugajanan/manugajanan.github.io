@@ -10,6 +10,8 @@ ul.main-menu li {
 }
 
 p {
+ width: 70px;
+ height: 300px;
  font-style: normal;
  font-family: sans-serif;
  font-size: 15px;
