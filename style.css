@@ -18,15 +18,18 @@ p {
 }
 
 .h1 {
- font-family: sans-serif, verdana;      
+ font-family: sans-serif, verdana;   
+ letter-spacing: 2px;
 }
  
 .h2 {
  font-family: sans-serif, verdana;
+ letter-spacing: 2px;   
 }
 
 footer {
     font-family: sans-serif, verdana;
+    letter-spacing: 2px;
 }
 
 .portfolio {
