@@ -15,10 +15,7 @@ p {
  font-style: normal;
  font-family: sans-serif;
  font-size: 15px;
- padding-top: 10px;
- padding-bottom: 10px;
- text-decoration-style: wavy;
- float: left; 
+ float: right; 
 }
 
 .h1 {
