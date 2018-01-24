@@ -58,3 +58,8 @@ footer {
     font-family: sans-serif, verdana;
     text-align: center; 
 }
+
+body {
+    margin-top: 50px;
+    background-color: maroon; 
+}
