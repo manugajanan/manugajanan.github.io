@@ -21,7 +21,7 @@ p {
 }
 
 .h1 {
-
+ font-variant: small-caps; 
  font-family: century gothic;   
  letter-spacing: 2px;
 }
