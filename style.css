@@ -1,5 +1,5 @@
 ul.main-menu {
-    font-family: sans-serif, verdana;
+    font-family: century gothic;
 
     list-style-type: none;
     margin: 0;
@@ -7,7 +7,7 @@ ul.main-menu {
 }
 ul.main-menu li {
     display: inline;
-    font-family: sans-serif, verdana;
+    font-family: century gothic;
 }
 
 p {
@@ -22,50 +22,50 @@ p {
 
 .h1 {
 
- font-family: sans-serif, verdana;   
+ font-family: century gothic;   
  letter-spacing: 2px;
 }
  
 .h2 {
 
- font-family: sans-serif, verdana;
+ font-family: century gothic;
  letter-spacing: 2px;   
  text-align: left;
 }
 
 footer {
 
-    font-family: sans-serif, verdana;
+    font-family: century gothic;
     letter-spacing: 2px;
 }
 
 .myportfolio {
    
-    font-family: sans-serif, verdana;
+    font-family: century gothic;
     text-align: center; 
 }
 
 .work1{
   
-    font-family: sans-serif, verdana;
+    font-family: century gothic;
     text-align: center; 
 }
 
 .work2{
 
-    font-family: sans-serif, verdana;
+    font-family: century gothic;
     text-align: center; 
 }
 
 .skills {
     
-    font-family: sans-serif, verdana;
+    font-family: century gothic;
     text-align: center; 
 }
 
 .presentation{
   
-    font-family: sans-serif, verdana;
+    font-family: century gothic;
     text-align: center; 
 }
 
