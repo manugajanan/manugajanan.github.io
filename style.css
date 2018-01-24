@@ -6,6 +6,7 @@ ul.main-menu {
 }
 ul.main-menu li {
     display: inline;
+    font-family: sans-serif, verdana;
 }
 
 p {
