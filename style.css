@@ -26,6 +26,7 @@ p {
 .h2 {
  font-family: sans-serif, verdana;
  letter-spacing: 2px;   
+ text-align: center;
 }
 
 footer {
