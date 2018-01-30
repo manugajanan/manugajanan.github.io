@@ -1,5 +1,5 @@
 ul.main-menu {
-    font-family: sans-serif;
+    font-family: serif;
 
     list-style-type: none;
     margin: 0;
@@ -7,7 +7,7 @@ ul.main-menu {
 }
 ul.main-menu li {
     display: inline;
-    font-family: sans-serif;
+    font-family: serif;
 }
 
 p {
@@ -15,7 +15,7 @@ p {
  width: 500px;
  height: 250px;
  font-style: normal;
- font-family: sans-serif;
+ font-family: serif;
  font-size: 15px;
  text-align: left; 
 }
@@ -23,50 +23,50 @@ p {
 .h1 {
  word-spacing: 30px; 
  font-variant: small-caps; 
- font-family: sans-serif;   
+ font-family: serif;   
  letter-spacing: 2px;
 }
  
 .h2 {
  word-spacing: 30px;
- font-family: sans-serif;
+ font-family: serif;
  letter-spacing: 2px;   
  text-align: left;
 }
 
 footer {
 
-    font-family: sans-serif;
+    font-family: serif;
     letter-spacing: 2px;
 }
 
 .myportfolio {
     word-spacing: 30px;
-    font-family: sans-serif;
+    font-family: serif;
     text-align: center; 
 }
 
 .work1{
   word-spacing: 30px;
-    font-family: sans-serif;
+    font-family: serif;
     text-align: center; 
 }
 
 .work2{
 word-spacing: 30px;
-    font-family: sans-serif;
+    font-family: serif;
     text-align: center; 
 }
 
 .skills {
     word-spacing: 30px;
-    font-family: sans-serif;
+    font-family: serif;
     text-align: center; 
 }
 
 .presentation{
   word-spacing: 30px;
-    font-family: sans-serif;
+    font-family: serif;
     text-align: center; 
 }
 
