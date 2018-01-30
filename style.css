@@ -1,5 +1,5 @@
 ul.main-menu {
-    font-family: century gothic;
+    font-family: sans-serif;
 
     list-style-type: none;
     margin: 0;
@@ -7,7 +7,7 @@ ul.main-menu {
 }
 ul.main-menu li {
     display: inline;
-    font-family: century gothic;
+    font-family: sans-serif;
 }
 
 p {
@@ -23,50 +23,50 @@ p {
 .h1 {
  word-spacing: 30px; 
  font-variant: small-caps; 
- font-family: century gothic;   
+ font-family: sans-serif;   
  letter-spacing: 2px;
 }
  
 .h2 {
  word-spacing: 30px;
- font-family: century gothic;
+ font-family: sans-serif;
  letter-spacing: 2px;   
  text-align: left;
 }
 
 footer {
 
-    font-family: century gothic;
+    font-family: sans-serif;
     letter-spacing: 2px;
 }
 
 .myportfolio {
     word-spacing: 30px;
-    font-family: century gothic;
+    font-family: sans-serif;
     text-align: center; 
 }
 
 .work1{
   word-spacing: 30px;
-    font-family: century gothic;
+    font-family: sans-serif;
     text-align: center; 
 }
 
 .work2{
 word-spacing: 30px;
-    font-family: century gothic;
+    font-family: sans-serif;
     text-align: center; 
 }
 
 .skills {
     word-spacing: 30px;
-    font-family: century gothic;
+    font-family: sans-serif;
     text-align: center; 
 }
 
 .presentation{
   word-spacing: 30px;
-    font-family: century gothic;
+    font-family: sans-serif;
     text-align: center; 
 }
 
