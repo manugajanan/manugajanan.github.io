@@ -23,14 +23,14 @@ p {
 }
 
 .h1 {
- word-spacing: 30px; 
+ word-spacing: 5px; 
  font-variant: small-caps; 
  font-family: serif;   
  letter-spacing: 2px;
 }
  
 .h2 {
- word-spacing: 30px;
+ word-spacing: 5px;
  font-family: serif;
  letter-spacing: 2px;   
  text-align: left;
@@ -49,25 +49,25 @@ footer {
 }
 
 .work1{
-  word-spacing: 30px;
+  word-spacing: 5px;
     font-family: serif;
     text-align: center; 
 }
 
 .work2{
-word-spacing: 30px;
+word-spacing: 5px;
     font-family: serif;
     text-align: center; 
 }
 
 .skills {
-    word-spacing: 30px;
+    word-spacing: 5px;
     font-family: serif;
     text-align: center; 
 }
 
 .presentation{
-  word-spacing: 30px;
+  word-spacing: 5px;
     font-family: serif;
     text-align: center; 
 }
