@@ -48,7 +48,7 @@ p {
 footer {
 
     font-family: serif;
-    letter-spacing: 2px;
+    text-align: center; 
 }
 
 .myportfolio {
@@ -80,7 +80,6 @@ word-spacing: 5px;
     font-family: serif;
     text-align: center; 
 }
-
 
 
     
