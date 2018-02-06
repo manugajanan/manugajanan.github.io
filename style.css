@@ -61,7 +61,7 @@ footer {
 .work1{
   word-spacing: 5px;
     font-family: serif;
-    text-align: center; 
+    text-align: left; 
 }
 
 .work2{
@@ -81,7 +81,7 @@ word-spacing: 5px;
     font-family: serif;
     text-align: center; 
 }
-
+/* THIS CODE IS FROM THE WEBSITE https://www.solodev.com/blog/web-design/adding-a-scroll-down-anchor-to-your-website.stml */
 .separator-type, .title-type, .intro-type, .content-type .intro-type p {
   position: relative;
 }
