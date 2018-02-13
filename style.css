@@ -7,6 +7,13 @@ body {
     background-size: 125%;
     background-color: lightblue;
 }
+/*THIS REPRESENTS THE HOMEPAGE TITLE CALLED "MANU"*/
+title.MANU {
+    text-align: center;
+    font-variant: small-caps; 
+    font-size: initial; 
+    margin-top: 50px; 
+}
 /*THIS REPRESENTS THE FINAL PORTFOLIO TITLE*/
 .title {
     font-family: courier;
