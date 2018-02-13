@@ -5,6 +5,7 @@ body {
     margin-top: 50px;
     background-blend-mode: lighten;
     background-size: 125%;
+    background-color: lightblue;
 }
 
 ul.main-menu {
