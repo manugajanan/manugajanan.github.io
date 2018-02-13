@@ -12,8 +12,9 @@ body {
     font-family: courier;
     text-align: center;
     /*font-variant: small-caps;*/ 
-    font-size: large;
+    font-size: relative;
     margin-top: 50px; 
+    letter-spacing: 2px; 
 }
 /*THIS REPRESENTS THE FINAL PORTFOLIO TITLE*/
 .title {
