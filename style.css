@@ -8,6 +8,9 @@ body {
     background-color: lightblue;
 }
 
+.title {
+    font-family: courier;
+
 ul.main-menu {
     font-family: courier;
     word-spacing: 30px;
