@@ -47,7 +47,7 @@ p {
  
 .h2 {
  word-spacing: 5px;
- font-family: courier
+ font-family: courier;
  letter-spacing: 2px;   
  text-align: center;
 }
