@@ -8,6 +8,37 @@ body {
     background-color: lightblue;
 }
 /*THIS REPRESENTS THE HOMEPAGE TITLE CALLED "MANU"*/
+
+.home{
+    border-top: 2px dotted black;
+  border-bottom: 2px dotted black;
+}
+
+.finalportfolio{
+    border-top: 2px dotted black;
+  border-bottom: 2px dotted black;
+}
+
+.wip1{
+    border-top: 2px dotted black;
+  border-bottom: 2px dotted black;
+}
+
+.wip2{
+    border-top: 2px dotted black;
+  border-bottom: 2px dotted black;
+}
+
+.skills{
+    border-top: 2px dotted black;
+  border-bottom: 2px dotted black;
+}
+
+.presentation{
+    border-top: 2px dotted black;
+  border-bottom: 2px dotted black;
+}
+
 .manu {
     font-family: courier;
     text-align: center;
