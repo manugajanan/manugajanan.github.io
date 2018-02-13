@@ -53,16 +53,10 @@ ul.main-menu {
 
 p {
  line-spacing: 3px;
- width: 500px;
- height: 250px;
  font-style: normal;
  font-family: courier;
- text-align: center;
-  margin-left: 10px;
-  margin-right: 10px;
+ text-align: left;
  font-size: 20px;
- margin-top: 10px;
- margin-bottom: 5px;
 }
 
 .h1 {
