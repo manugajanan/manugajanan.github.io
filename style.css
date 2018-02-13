@@ -7,16 +7,16 @@ body {
     background-size: 125%;
     background-color: lightblue;
 }
-
+/*THIS REPRESENTS THE FINAL PORTFOLIO TITLE*/
 .title {
     font-family: courier;
 }
-
+/*THIS IS THE NAV */
 ul.main-menu {
     font-family: courier;
     word-spacing: 10px;
     list-style-type: none;
-    margin: 0;
+    margin-left: 25px;
     padding: 0;
 }
 
