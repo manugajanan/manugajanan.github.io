@@ -8,7 +8,7 @@ body {
     background-color: lightblue;
 }
 /*THIS REPRESENTS THE HOMEPAGE TITLE CALLED "MANU"*/
-title.MANU {
+.MANU {
     text-align: center;
     font-variant: small-caps; 
     font-size: initial; 
