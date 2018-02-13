@@ -9,9 +9,10 @@ body {
 }
 /*THIS REPRESENTS THE HOMEPAGE TITLE CALLED "MANU"*/
 .manu {
+    font-family: courier;
     text-align: center;
-    font-variant: small-caps; 
-    font-size: initial; 
+    /*font-variant: small-caps;*/ 
+    font-size: large;
     margin-top: 50px; 
 }
 /*THIS REPRESENTS THE FINAL PORTFOLIO TITLE*/
