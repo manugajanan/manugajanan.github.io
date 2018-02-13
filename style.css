@@ -13,12 +13,13 @@ body {
 
 ul.main-menu {
     font-family: courier;
-    /* word-spacing: 10px; */
+    word-spacing: 10px;
     list-style-type: none;
     margin: 0;
     padding: 0;
 }
-ul.main-menu li {
+
+    ul.main-menu li {
     display: inline;
     font-family: courier;
 }
