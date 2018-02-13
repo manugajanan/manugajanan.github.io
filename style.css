@@ -8,7 +8,7 @@ body {
 }
 
 ul.main-menu {
-    font-family: serif;
+    font-family: courier;
     word-spacing: 30px;
     list-style-type: none;
     margin: 0;
@@ -16,7 +16,7 @@ ul.main-menu {
 }
 ul.main-menu li {
     display: inline;
-    font-family: serif;
+    font-family: courier;
 }
 
 p {
@@ -24,7 +24,7 @@ p {
  width: 500px;
  height: 250px;
  font-style: normal;
- font-family: serif;
+ font-family: courier;
  text-align: center;
   margin-left: 10px;
   margin-right: 10px;
@@ -36,20 +36,20 @@ p {
 .h1 {
  word-spacing: 5px; 
  font-variant: small-caps; 
- font-family: serif;   
+ font-family: courier;   
  letter-spacing: 2px;
 }
  
 .h2 {
  word-spacing: 5px;
- font-family: serif;
+ font-family: courier
  letter-spacing: 2px;   
  text-align: center;
 }
 
 footer {
 
-    font-family: serif;
+    font-family: courier;
     text-align: center; 
 }
 
@@ -61,19 +61,19 @@ footer {
 
 .work2{
 word-spacing: 5px;
-    font-family: serif;
+    font-family: courier;
     text-align: center; 
 }
 
 .skills {
     word-spacing: 5px;
-    font-family: serif;
+    font-family: courier;
     text-align: center; 
 }
 
 .presentation{
   word-spacing: 5px;
-    font-family: serif;
+    font-family: courier;
     text-align: center; 
 }
 /* THIS CODE IS FROM THE WEBSITE https://www.solodev.com/blog/web-design/adding-a-scroll-down-anchor-to-your-website.stml */
