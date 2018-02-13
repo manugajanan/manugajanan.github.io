@@ -84,7 +84,8 @@ word-spacing: 5px;
     text-align: center; 
 }
 /* THIS CODE IS FROM THE WEBSITE https://www.solodev.com/blog/web-design/adding-a-scroll-down-anchor-to-your-website.stml */
-.separator-type, .title-type, .intro-type, .content-type .intro-type p {
+
+/* .separator-type, .title-type, .intro-type, .content-type .intro-type p {
   position: relative;
 }
 .intro-type .container {
@@ -141,6 +142,6 @@ word-spacing: 5px;
 }
 img, 
 figure {
-  max-width: 100%;
+  max-width: 100%; */ 
 
     
