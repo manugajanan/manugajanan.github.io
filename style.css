@@ -34,6 +34,12 @@ ul.main-menu {
     display: inline;
     font-family: courier;
 }
+/*This represents the bio on the about me section */ 
+.bio {
+    text-align: center; 
+    margin-top: 25px;
+    font-family: courier;
+}
 
 p {
  line-spacing: 3px;
