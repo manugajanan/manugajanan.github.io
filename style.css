@@ -34,6 +34,12 @@ body {
   border-bottom: 2px dotted black;
 }
 
+.skillscontainer{
+    width: 80%;
+    margin-left: 10%;
+    margin-bottom:10%;
+}
+
 .presentation{
     border-top: 2px dotted black;
   border-bottom: 2px dotted black;
