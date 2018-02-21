@@ -41,6 +41,7 @@ body {
 }
 
 ol {
+    font-family: courier;
     display: block;
     list-style-type: decimal;
     margin-top: 1em;
