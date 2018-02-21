@@ -40,6 +40,15 @@ body {
     margin-bottom:10%;
 }
 
+ol {
+    display: block;
+    list-style-type: decimal;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 40px;
+    
 .presentation{
     border-top: 2px dotted black;
   border-bottom: 2px dotted black;
