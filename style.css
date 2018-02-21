@@ -49,6 +49,7 @@ ol {
     margin-left: 0;
     margin-right: 0;
     padding-left: 40px;
+    line-spacing: 5px;
 }
 .presentation{
     border-top: 2px dotted black;
