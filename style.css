@@ -145,6 +145,7 @@ word-spacing: 5px;
 }
 
 .skills {
+    margin-top: 100px;
     word-spacing: 5px;
     font-family: courier;
     text-align: center; 
