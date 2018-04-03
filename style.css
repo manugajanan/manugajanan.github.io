@@ -175,10 +175,8 @@ tr:nth-child(even) {
     text-align: center; 
 }
 
-p{
+.workinprogress2{
     margin-left:10%;
     margin-right:10%;
     width: 80%;
 }
-
-    
