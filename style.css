@@ -9,6 +9,12 @@ body {
 }
 /*THIS REPRESENTS THE HOMEPAGE TITLE CALLED "MANU"*/
 
+.main-menu {
+    background-color: black;
+    border-radius: 25px;
+    overflow: hidden;
+}
+
 .home{
     border-top: 2px dotted black;
   border-bottom: 2px dotted black;
