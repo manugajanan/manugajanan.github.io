@@ -4,7 +4,7 @@ body {
     height: 100%;
     margin-top: 50px;
     background-color: #8F6ABF;
-    font-family: "Palatino Linotype", sans-serif;
+    font-family: "Titillium Web", sans-serif;
 }
 
 .main-menu {
@@ -46,9 +46,8 @@ ol {
 }
 
 .manu {
-    font-family: courier;
+    font-family: "Titillium Web", sans-serif; 
     text-align: center;
-    /*font-variant: small-caps;*/ 
     font-size: relative;
     margin-top: 50px; 
     letter-spacing: 5px; 
