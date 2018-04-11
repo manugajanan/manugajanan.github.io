@@ -7,13 +7,17 @@ body {
     background-color: lightblue;
     font-family: "Palatino Linotype", sans-serif;
 }
-/*THIS REPRESENTS THE HOMEPAGE TITLE CALLED "MANU"*/
 
 .main-menu {
     background-color: yellow;
     border-radius: 25px;
     overflow: hidden;
     margin-left: 5%; 
+}
+
+p {
+    font-family: "Titillium Web", sans-serif;
+    text-shadow: 1px 1px black;
 }
 
 .skillscontainer{
