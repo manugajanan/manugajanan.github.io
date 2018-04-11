@@ -10,11 +10,15 @@ body {
 h2 {
     color: #E7B600;
     font-size:150%;
-    border-bottom: 1px solid white;
+    border-bottom: 2px solid white;
     text-shadow: 1px 1px black;
 }
-
-
+.manu {
+    font-family: "Titillium Web", sans-serif; 
+    text-align: center;
+    text-decoration: none;
+    margin-top: 5%;
+}
 .main-menu {
     background-color: #E7B600;
     border-radius: 25px;
@@ -54,13 +58,6 @@ ol {
   border-bottom: 2px dotted black;
 }
 
-.manu {
-    font-family: "Titillium Web", sans-serif; 
-    text-align: center;
-    font-size: relative;
-    margin-top: 50px; 
-    letter-spacing: 5px; 
-}
 /*THIS REPRESENTS THE FINAL PORTFOLIO TITLE*/
 .title {
     font-family: courier;
