@@ -7,8 +7,16 @@ body {
     font-family: "Titillium Web", sans-serif;
 }
 
+h2 {
+    color: #E7B600;
+    font-size:150%;
+    border-bottom: 1px solid white;
+    text-shadow: 1px 1px black;
+}
+
+
 .main-menu {
-    background-color: yellow;
+    background-color: #E7B600;
     border-radius: 25px;
     overflow: hidden;
     margin-left: 5%; 
@@ -20,6 +28,7 @@ p {
     margin-left: 5%;
     margin-right: 5%;
     margin-top:  5%; 
+    line-spacing: 3px;
 }
 
 .skillscontainer{
