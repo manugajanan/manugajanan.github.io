@@ -4,8 +4,9 @@ body {
     height: 100%;
     margin-top: 50px;
     background-blend-mode: lighten;
-    background-size: 500%;
     background-color: lightblue;
+    font-family: "Palatino Linotype", sans-serif;
+    margin: 0% 10% 0% 10%;
 }
 /*THIS REPRESENTS THE HOMEPAGE TITLE CALLED "MANU"*/
 
@@ -13,31 +14,7 @@ body {
     background-color: black;
     border-radius: 25px;
     overflow: hidden;
-}
-
-.home{
-    border-top: 2px dotted black;
-  border-bottom: 2px dotted black;
-}
-
-.finalportfolio{
-    border-top: 2px dotted black;
-  border-bottom: 2px dotted black;
-}
-
-.wip1{
-    border-top: 2px dotted black;
-  border-bottom: 2px dotted black;
-}
-
-.wip2{
-    border-top: 2px dotted black;
-  border-bottom: 2px dotted black;
-}
-
-.skills{
-    border-top: 2px dotted black;
-  border-bottom: 2px dotted black;
+    margin-left: 5%; 
 }
 
 .skillscontainer{
