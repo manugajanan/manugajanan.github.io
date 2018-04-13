@@ -62,10 +62,6 @@ ol {
   border-bottom: 2px dotted black;
 }
 
-/*THIS REPRESENTS THE FINAL PORTFOLIO TITLE*/
-.title {
-    font-family: courier;
-}
 /*THIS IS THE NAV */
 a:hover{
     background-color: yellow;
@@ -85,15 +81,6 @@ ul.main-menu {
     display: inline;
     font-family: courier;
 }
-/*This represents the bio on the about me section */ 
-.bio {
-    text-align: center; 
-    margin-top: 25px;
-    width: 80%;
-    margin-left: 10%;
-    margin-right: 10;
-    font-family: courier;
-}
 
 .container{
     width: 80%;
@@ -104,7 +91,6 @@ ul.main-menu {
 p {
  line-spacing: 3px;
  font-style: normal;
- font-family: courier;
  text-align: left;
  font-size: 20px;
 }
