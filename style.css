@@ -8,11 +8,8 @@ body {
 }
 
 img {
-    display: block;
-    margin-right: auto;
-    margin-left: auto;
-    width: 25;
-    height: 25%; 
+   max-width: 50%;
+   padding: 8px;
 }
 h2 {
     color: #E7B600;
