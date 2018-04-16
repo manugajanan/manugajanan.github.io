@@ -8,6 +8,9 @@ body {
 }
 
 img {
+    margin right: auto; 
+    margin-left: auto; 
+    position: absolute; 
    width: 50%; 
    height: 50%;
    float: right;     
