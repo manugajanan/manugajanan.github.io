@@ -7,6 +7,13 @@ body {
     font-family: "Titillium Web", sans-serif;
 }
 
+img {
+     display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 10%;
+}
 h2 {
     color: #E7B600;
     font-size:150%;
