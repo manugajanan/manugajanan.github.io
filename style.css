@@ -15,10 +15,12 @@ img {
 }
 
 .nemo {
-    margin-left: 25px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     width: 30%;
     height: 30%;
-    float: left; 
+    
 }
 
 h2 {
