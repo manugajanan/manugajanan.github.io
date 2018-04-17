@@ -23,6 +23,14 @@ img {
     
 }
 
+.manugaj {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    height: 30%;
+}
+
 h2 {
     color: #E7B600;
     font-size:150%;
