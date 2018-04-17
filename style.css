@@ -17,7 +17,8 @@ img {
 .nemo {
     margin-left: 25px;
     width: 30%;
-    height: 30%; 
+    height: 30%;
+    float: left; 
 }
 
 h2 {
