@@ -37,7 +37,8 @@ h2 {
     border-bottom: 2px solid white;
     text-shadow: 1px 1px black;
 }
-.title {
+
+title {
     font-family: "Titillium Web", sans-serif; 
     text-align: center;
     text-decoration: none;
