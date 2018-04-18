@@ -32,6 +32,7 @@ img {
 }
 
 h2 {
+    font-family: "Titillium Web", sans-serif; 
     color: #E7B600;
     font-size:150%;
     border-bottom: 2px solid white;
