@@ -23,7 +23,7 @@ h1 {
 }
 
 h1:hover {
-    color: #82D99D;
+    color: #6F8E79;
 }
 
 h1.active {
@@ -31,11 +31,11 @@ h1.active {
 }
 
 h1.active:hover {
-    color: #82D99D;
+    color: #6F8E79;
 }
 
 h2 {
-    color: #FFCD10;
+    color: #6F8E79;
     font-size:150%;
     border-bottom: 1px solid white;
     text-shadow: 1px 1px black;
@@ -62,7 +62,7 @@ a:visited {
     text-decoration: none;
 }
 a:hover {
-    color: #FFCD10;
+    color: #6F8E79;
     text-decoration: underline;
 }
 #home{
@@ -92,7 +92,7 @@ a:hover {
 }
 
 .main-menu > a.active {
-    background-color: #FFCD10;
+    background-color: #6F8E79;
     color:black;
 }
 
@@ -115,7 +115,7 @@ tr:hover {
 
 th {
     font-size: 115%;
-    color: #FFCD10;
+    color: #6F8E79;
     background-color: black;
 }
 
