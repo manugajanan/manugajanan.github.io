@@ -43,7 +43,6 @@ h2 {
 
 p {
     font-family: "Titillium Web", sans-serif;
-    text-shadow: 1px 1px black;
 }
 
 a:link {
@@ -70,37 +69,23 @@ a:hover {
     margin-bottom: 10px;
 }
 
-.main-menu>a {
-    float: left;
-    color: #82D99D;
-    text-align: center;
-    padding: .8% 2%;
-    text-decoration: none;
-    border-radius:25px;
-    font-size: 125%;
-}
-
-.main-menu > a:hover {
+.main-menu a:hover {
     background-color: rgba(255, 203, 16, 0.795);
     color: black;
 }
 
-.main-menu > a.active {
+.main-menu a.active {
     background-color: #6F8E79;
     color:black;
 }
 
 
 table, th, td {
-    text-shadow: 1px 1px black;
     border: 3px solid #CCCCD1;
     border-collapse: collapse;
     text-align: center; 
 }
 
-table {
-    table-layout:fixed;
-}
 
 tr:hover {
     background-color: black;
@@ -117,7 +102,12 @@ td {
     font-family: "Titillium Web", sans-serif;
 }
 
-img {
-    max-width: 47%;
-    padding: 5px;
-}
+.nemo { 
+    width: 50px; 
+    height: 50px; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+} 
+
+
