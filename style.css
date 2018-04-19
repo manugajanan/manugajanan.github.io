@@ -7,12 +7,13 @@ body {
     margin: 0% 10% 0% 10%;
 }
 
-/**title {
+.title {
+  font-family: "Shrikhand" , cursive;
   text-align: center;
   margin-top: 5%;
   font-size: 300%;
-  color: #6E5006;
-}**/
+  color: #B17BFF;
+}
 
 h1 {
     font-size: 300%;
