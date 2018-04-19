@@ -16,9 +16,9 @@ title {
 
 h1 {
     font-size: 300%;
-    color: #FFCD10;
+    color: #6F8E79;
     margin-bottom: 3%;
-    border-bottom: 2px solid #FFFFFF;
+    border-bottom: 2px solid #DCABAB;
     text-shadow: 1px 1px black;
 }
 
@@ -66,7 +66,7 @@ a:hover {
     background-color: black;
     overflow: hidden;
     border-radius: 25px;
-    margin-bottom: 5%
+    margin-bottom: 10px;
 }
 
 .main-menu>a {
