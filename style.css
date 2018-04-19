@@ -38,6 +38,7 @@ h1.active:hover {
 
 
 h2 {
+    text-align: center;
     color: #6F8E79;
     font-size:150%;
     border-bottom: 2px solid #DCABAB;
