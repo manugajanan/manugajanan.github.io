@@ -68,14 +68,22 @@ a:hover {
     border-radius: 25px;
     margin-bottom: 10px;
 }
-
-.main-menu a:hover {
+.main-menu>a {
+    float: left;
+    color: #7F8884;
+    text-align: center;
+    padding: .5% 2%;
+    text-decoration: none;
+    border-radius:25px;
+    font-size: 100%;
+}
+.main-menu>a:hover {
     background-color: rgba(255, 203, 16, 0.795);
     color: black;
 }
 
-.main-menu a.active {
-    background-color: #6F8E79;
+.main-menu>a.active {
+    background-color: #7F8884;
     color:black;
 }
 
