@@ -1,7 +1,7 @@
 
 
 body {
-    font-family: "Oswald", sans-serif;
+    font-family: sans-serif;
     background-color: #E5D7A5;
     color: black;
     margin: 0% 10% 0% 10%;
@@ -42,7 +42,7 @@ h2 {
 }
 
 p {
-    font-family: "Titillium Web", sans-serif;
+    font-family: sans-serif;
 }
 
 a:link {
@@ -128,4 +128,7 @@ img {
     margin-right: auto; 
 } 
 
+html-element {
+  font-family: 'FontName', Helvetica, Arial, sans-serif;
+}
 
