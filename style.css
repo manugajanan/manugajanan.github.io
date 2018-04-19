@@ -1,7 +1,7 @@
 
 
 body {
-    font-family: "Tittilium Web", sans-serif;
+    font-family: "Oswald", sans-serif;
     background-color: #E5D7A5;
     color: black;
     margin: 0% 10% 0% 10%;
@@ -27,7 +27,7 @@ h1:hover {
 }
 
 h1.active {
-    color: #FFCD10;
+    color: #9B7AC4;
 }
 
 h1.active:hover {
