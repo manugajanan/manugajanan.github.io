@@ -20,7 +20,7 @@ h1 {
     color: #6F8E79;
     margin-bottom: 3%;
     border-bottom: 2px solid #DCABAB;
-    text-shadow: 1px 1px black;
+    text-shadow: 3px 3px black;
 }
 
 h1:hover {
@@ -39,7 +39,7 @@ h2 {
     color: #6F8E79;
     font-size:150%;
     border-bottom: 2px solid #DCABAB;
-    text-shadow: 1px 1px black;
+    text-shadow: 2px 2px black;
 }
 
 p {
