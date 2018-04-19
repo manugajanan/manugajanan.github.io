@@ -69,15 +69,6 @@ a:hover {
     margin-bottom: 10px;
 }
 
-.main-menu a:hover {
-    background-color: rgba(255, 203, 16, 0.795);
-    color: black;
-}
-
-.main-menu a.active {
-    background-color: #6F8E79;
-    color:black;
-}
 .main-menu>a {
     float: left;
     color: #7D847F;
@@ -87,6 +78,17 @@ a:hover {
     border-radius:25px;
     font-size: 100%;
 }
+
+.main-menu>a:hover {
+    background-color: rgba(255, 203, 16, 0.795);
+    color: black;
+}
+
+.main-menu>a.active {
+    background-color: #6F8E79;
+    color:black;
+}
+
 
 table, th, td {
     border: 3px solid #D2D2D5;
