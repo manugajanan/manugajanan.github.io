@@ -28,7 +28,8 @@ h1:hover {
 }
 
 h1.active {
-    color: #9B7AC4;
+    color: #6F8E79;
+    border-bottom: 2px solid #DCABAB;
 }
 
 h1.active:hover {
