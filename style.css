@@ -78,10 +78,18 @@ a:hover {
     background-color: #6F8E79;
     color:black;
 }
-
+.main-menu>a {
+    float: left;
+    color: #7D847F;
+    text-align: center;
+    padding: .5% 3%;
+    text-decoration: none;
+    border-radius:25px;
+    font-size: 100%;
+}
 
 table, th, td {
-    border: 3px solid #CCCCD1;
+    border: 3px solid #D2D2D5;
     border-collapse: collapse;
     text-align: center; 
 }
@@ -99,7 +107,7 @@ tr:hover {
 
 th {
     font-size: 115%;
-    color: #6F8E79;
+    color: #7D847F;
     background-color: black;
 }
 
