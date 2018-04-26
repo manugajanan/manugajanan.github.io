@@ -150,9 +150,15 @@ img {
 }
 
 .nemo { 
-    width: 20%; 
-    height: 20%;    
+    width: 33%; 
+    height: 33%;    
 } 
+
+.nemo2 {
+    width: 20%;
+    height: 20%;
+}
+
 .oftn1{
      width: 20%;
     height: 20%;
