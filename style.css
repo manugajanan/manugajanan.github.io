@@ -140,14 +140,29 @@ img {
     padding: 50px;
 }
 
+.manu{
+     width: 33%;
+    height: 33%;
+}
+
 .nemo { 
     width: 33%; 
     height: 33%;    
 } 
+.oftn1{
+     width: 33%;
+    height: 33%;
+}
 
 .oftn{
     width: 33%;
     height: 33%;
 }
+
+.key{
+     width: 33%;
+    height: 33%;
+}
+
 
 
