@@ -45,6 +45,14 @@ h2 {
     text-shadow: 2px 2px black;
 }
 
+h3 {
+    color: #6F8E79;
+    font-size:100%;
+    border-bottom: 2px solid #DCABAB;
+    text-shadow: 2px 2px black;
+}
+
+
 p {
     font-family: "Pridi";
 }
