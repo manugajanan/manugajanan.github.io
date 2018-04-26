@@ -94,12 +94,23 @@ a:hover {
 }
 
 
-table, th, td {
+table {
     border: 3px solid #D2D2D5;
     border-collapse: collapse;
     text-align: center; 
 }
 
+th {
+    border: 3px solid #D2D2D5;
+    border-collapse: collapse;
+    text-align: center; 
+}
+
+td {
+    border: 3px solid #D2D2D5;
+    border-collapse: collapse;
+    text-align: center; 
+}
 
 table {
     table-layout:fixed;
@@ -108,7 +119,6 @@ table {
 
 tr:hover {
     background-color: black;
-    color:#82D99D;
 }
 
 th {
