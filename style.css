@@ -165,6 +165,11 @@ img {
 }
 
 .oftn{
+    width: 33%;
+    height: 33%;
+}
+
+.oftn3{
     width: 20%;
     height: 20%;
 }
