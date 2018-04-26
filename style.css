@@ -96,6 +96,34 @@ a:hover {
     color:black;
 }
 
+.menu-2{
+    color: #6F8E79;
+    max-width: 100%;
+    background-color: black;
+    overflow: hidden;
+    border-radius: 25px;
+    margin-bottom: 5%;
+}
+
+.menu-2>a{
+    float: left;
+    color: #7D847F;
+    text-align: center;
+    padding: .5% 4%;
+    text-decoration: none;
+    border-radius:25px;
+    font-size: 100%;
+}
+
+.menu-2>a:hover{   
+ background-color: #9B7AC4;
+    color: black;
+}
+
+.menu-2>a:active{
+  background-color: #6F8E79;
+    color:black;
+}
 
 table {
     border: 3px solid #D2D2D5;
